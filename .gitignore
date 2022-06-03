@@ -1,3 +1,6 @@
+.DS_Store
+.idea/
+
 # Logs
 logs
 *.log
@@ -64,6 +67,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+*.zip
 
 # Yarn Integrity file
 .yarn-integrity
