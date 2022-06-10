@@ -1,0 +1,26 @@
+{
+  "name": "chapter_2__chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev:client": "parcel index.html"
+  },
+  "alias": {
+    "process": false
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "chalk": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "parcel": "^2.6.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "semantic-ui-react": "^2.1.3",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1",
+    "uuid": "^8.3.2"
+  }
+}
